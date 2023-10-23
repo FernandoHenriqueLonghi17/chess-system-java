@@ -1,3 +1,4 @@
+-- controlar informações de cadastro
 @RestController
 @RequestMapping("/cadastros")
 public class CadastroController {
